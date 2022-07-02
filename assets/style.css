@@ -1,0 +1,94 @@
+#container{
+  
+  width:50%;
+  margin:auto;
+  padding: 0 25px 40px 10px;
+  background-color: #1b4064;
+  border:4px solid #B0E0E6;
+  border-radius:5px;
+  color: #e2d5d5;
+  font-weight: bold;
+  box-shadow: 5px 5px 5px #888;
+}
+h1 {
+  text-align: center;}
+
+  #timer {
+    float: right;
+  }
+
+  #return {
+    background-color:#e2d5d5;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    top: 30%;
+    left: 55%;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+  }
+
+  #clear {
+    background-color: #e2d5d5;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    top: 30%;
+    right: 5%;
+    text-align: center;
+    border-radius: 6px;
+  }
+
+  textarea {
+    width: 90%;
+    margin: 20px;
+  }
+  
+  #Submit {
+    background-color: #1b4064;
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+  }
+  
+  #newLabel {
+    margin-right: 10px;
+  }
+  input {
+    margin-bottom: 20px;
+    width: 50%;
+    border: 1px solid lightgray;
+  }
+  
+ 
+  
+  li {
+    background-color: #1b4064;
+    margin-top: 10px;
+    padding: 5px 15px;
+    width: 80%;
+    font-size: 18px;
+    color: white;
+  }
+  
+  #newDiv {
+    margin-top: 20px;
+    border-top: 1px solid lightgray;
+  }
+  #startQuiz{
+    background-color: #e2d5d5;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    border-radius: 6px;
+  }
+  body {
+    background: cadetblue
+  }
