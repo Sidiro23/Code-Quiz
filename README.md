@@ -1,5 +1,6 @@
 # Code-Quiz
 
+![Web capture_2-7-2022_171254_sidiro23 github io](https://user-images.githubusercontent.com/106550353/177017572-55a08454-91c0-4a43-9bbe-ccd7c225ca99.jpeg)
 
 ### Notes
 #### 1 Created Quiz Game app using HTML , CSS, Javascript and Bootstrap
